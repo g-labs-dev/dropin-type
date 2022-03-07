@@ -1,0 +1,12 @@
+{
+  "name": "dropin-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kangbyungseon <rkdqudtjs1@naver.com> (https://github.com/rkdqudtjs1)",
+  "license": "ISC",
+  "types": "index.d.ts"
+}
